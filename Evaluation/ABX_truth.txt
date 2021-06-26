@@ -1,0 +1,21 @@
+https://forms.gle/6enhJXk6jNxTkBxS9
+
+
+For verifying results after collecting responses.
+
+---------------------------------------------------------
+
+Files: (with randomized names A and B)
+Sentences synthesized before fine-tuning
+S1-A
+S2-B
+S3-A
+S4-A
+S4-B
+
+Sentences synthesized before fine-tuning
+S1-B
+S2-A
+S3-B
+S4-B
+S4-A
