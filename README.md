@@ -11,4 +11,7 @@ Text to Speech Synthesis using Speaker Adaptation:-
 ●  Mean Opinion Score of 3.9/5 was achieved. The adapted models the prosody information of the single speaker more accurately than the multi-speaker TTS, and this is reflected in the MOS and other evaluative tests.
 
 Recorded Data: https://drive.google.com/drive/folders/1ewKtJPIZlcUdKB-y4qPUBMlIZNKcYhTZ?usp=sharing
+
+![alt text](https://https://github.com/shwetha0312/Single-Speaker-TTS/blob/main/predicted_Spectrogram.png)
+
  
