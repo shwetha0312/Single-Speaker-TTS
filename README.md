@@ -2,7 +2,7 @@
 
 Text to Speech Synthesis using Speaker Adaptation:-
 
-●  Based on a neural network-based system for text-to-speech (TTS) synthesis that is able to generate speech audio in the voice of different speakers, including those unseen during training. Original code was taken from different commits in the https://github.com/CorentinJ/Real-Time-Voice-Cloning/tree/054f16ecc186d8d4fa280a890a67418e6b9667a8
+●  Based on a neural network-based system for text-to-speech (TTS) synthesis that is able to generate speech audio in the voice of different speakers, including those unseen during training. Original code was taken from different commits in this ![repository](https://github.com/CorentinJ/Real-Time-Voice-Cloning/tree/054f16ecc186d8d4fa280a890a67418e6b9667a8)
 
 ●  System consists of three independently trained components: (1) a speaker encoder network to generate a fixed-dimensional embedding vector; (2) a sequence-to-sequence synthesis network based on Tacotron 2, which generates a mel spectrogram from text, conditioned on the speaker embedding; (3) an auto-regressive WaveNet-based vocoder that converts the mel spectrogram into a sequence of time domain waveform samples.
 
