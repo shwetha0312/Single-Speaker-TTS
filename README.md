@@ -12,6 +12,7 @@ Text to Speech Synthesis using Speaker Adaptation:-
 
 Recorded Data: https://drive.google.com/drive/folders/1ewKtJPIZlcUdKB-y4qPUBMlIZNKcYhTZ?usp=sharing
 
-![alt text](https://https://github.com/shwetha0312/Single-Speaker-TTS/blob/main/predicted_Spectrogram.png?raw=true)
+![Predicted_Spectrogram](https://user-images.githubusercontent.com/60440592/123513177-4b88b680-d6a9-11eb-8918-cd0d35560c99.png)
+
 
  
